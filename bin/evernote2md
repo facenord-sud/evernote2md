@@ -1,0 +1,20 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "evernote2md"
+
+
+file = ARGV[0]
+output_dir = ARGV[1]
+
+if file.nil? or output_dir.nil?
+  puts "USAGE: evernote2md [input file] [output dir]"
+  exit 0
+end
+
+unless File.exists?(file)
+  puts "Cannot find input file"
+  exit 0
+end
+
+Evernote2md.compile(file, output_dir)
