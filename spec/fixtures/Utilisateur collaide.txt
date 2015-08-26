@@ -1,8 +1,0 @@
-
-édition:
-menu de gauche
-paramètres de notifications
-paramètres d’envoi de mails
-bouton pour modifier avatar meilleur
-profil:
-- menu de gauche
