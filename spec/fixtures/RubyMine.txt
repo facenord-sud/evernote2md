@@ -1,0 +1,53 @@
+
+rubymine
+
+
+syn
+===== LICENSE BEGIN =====
+43740-12042010
+00001nNPIOrzPwvJjS"Y8Nafc6RELU
+nlmUzXskacwerrfwQvstArii0nTYef
+ZX"QYSGu6yLR8pJECxe6TyjYB9V1OQ
+===== LICENSE END =====
+
+
+
+
+admin
+
+
+===== LICENSE BEGIN =====
+92232-12042010
+00001nvDa2DZTwIeGWB08U5IPAaLmq
+dYo"1VHXzn0FRXoAaZesxV5LcRoG7h
+TPNY8CUycgapj1RLOlS5eEibK6JlLY
+===== LICENSE END =====
+
+
+
+
+
+
+phpstorm
+
+
+admin
+
+
+===== LICENSE BEGIN =====
+61070-12042010
+00000Ishc3bfc8keafw7IQBAE30t"D
+r4pdwjx"IQcKbzCwn4uVgmWmqWDMva
+ZgjK"YOSpq2GpolodSOtGd3J5kXiqN
+===== LICENSE END =====
+
+
+syn
+
+
+===== LICENSE BEGIN =====
+12308-12042010
+00000Y1AMnd9UKPJXU9vt6lc"zsuVN
+E01oJHTXOvgAGo28iYkDexljYQD6tS
+tsq1nnHTVk0oxhsMyYZX4r5vaFojs8
+===== LICENSE END =====

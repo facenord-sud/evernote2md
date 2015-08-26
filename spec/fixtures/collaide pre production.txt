@@ -1,0 +1,19 @@
+
+ssh collaide@188.155.87.148
+password : 2#3yYsdMZ+44]u
+
+
+user : admin
+pass : 5:pjD47b[=TnP5
+
+
+user : prod
+pass : b495;Qnd7&#PhB
+
+
+user : postgres
+pass : Hw*8[P2cg7Ux8/
+
+
+role : monrole
+pass : 2Qfd65$UN9sm*<

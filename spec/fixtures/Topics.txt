@@ -1,0 +1,11 @@
+
+ mettre les discussions du plus récent au plus ancien
+ pas de scroll infini pour le moment
+ dans l'index des topics, indiquer les trois derniers commentaires, toujours du plus ancien au plus récent, avec une limite de taille pour chaque commentaires. Au besoin afficher le message dans son entier.
+ Un lien, montre la discussion depuis le début
+ le formulaire doit toujours être en-bas
+ le message du topic est toujours en-haut
+ éditer
+ ajax
+ réduire le texte de chaque message si une taille x est atteinte
+ fournir un lien pour afficher le bon message en-haut

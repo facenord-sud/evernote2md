@@ -5,12 +5,12 @@ module Evernote2md
   def self.compile(file, output_dir)
     xml_file = File.new(file)
     xml_notes = Nokogiri::XML(xml_file).xpath('//note')
-    notes = xml_notes.each do |note|
-      note_to_save = Note.new(note.xpath('//title').first.text, note.xpath('//content').first.text).to_text
+    xml_notes.each do |note|
+      note_to_save = Note.new(note.xpath('title').first.text, note.xpath('content').first.text)
+      puts "Saving note: #{note_to_save.title}"
       IO.write(File.join(output_dir, note_to_save.title + '.txt'), note_to_save.text)
     end
 
-    puts notes.first
   end
 
  class Note
